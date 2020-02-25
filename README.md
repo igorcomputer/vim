@@ -277,3 +277,5 @@ http://fatroom.blogspot.ru/2007/02/vim.html - Описание команд
 http://transerfing-realnosti.ru/debian/22-navigaciya-v-vim.html  - Отличное (все есть)
 http://scabere.livejournal.com/62886.html - командная строка  
 http://vimcasts.org/episodes/tabs-and-spaces/ - Настройки табуляции
+
+[http://vimcasts.org/episodes/tabs-and-spaces/](Настройки табуляции)
