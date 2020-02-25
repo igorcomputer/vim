@@ -278,4 +278,4 @@ http://transerfing-realnosti.ru/debian/22-navigaciya-v-vim.html  - Отличн�
 http://scabere.livejournal.com/62886.html - командная строка  
 http://vimcasts.org/episodes/tabs-and-spaces/ - Настройки табуляции
 
-[http://vimcasts.org/episodes/tabs-and-spaces/](#Настройки табуляции)
+`http://vimcasts.org/episodes/tabs-and-spaces/ - Настройки табуляции 
