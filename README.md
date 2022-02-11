@@ -1,6 +1,8 @@
 ## Описание основных команд VIM редактора
 
-### Режимы Vim__:
+## MASTER
+
+### Режимы Vim:
 
 1) Визуальный (по умолчанию)  
 2) Режим вставки ---INSERT---  
@@ -270,11 +272,12 @@ https://www.youtube.com/watch?v=5r6yzFEXajQ  - Отличный видос How T
 https://www.youtube.com/watch?v=lQNFfhC4QI8 - Vim Magic (real example)
 
 За основу взят GVIM редактор, который работает под Windows  
-- http://vrapper.sourceforge.net/home/ - Установка плагина для Eclipse  
-- http://vrapper.sourceforge.net/documentation/?topic=basics - Документация для плагина
-- http://konishchevdmitry.blogspot.ru/2008/07/howto-vim.html - Хорошее описание команд.  
-- http://fatroom.blogspot.ru/2007/02/vim.html - Описание команд  
-- http://transerfing-realnosti.ru/debian/22-navigaciya-v-vim.html  - Отличное (все есть)
-- http://scabere.livejournal.com/62886.html - командная строка  
-- http://vimcasts.org/episodes/tabs-and-spaces/ - Настройки табуляции
+http://vrapper.sourceforge.net/home/ - Установка плагина для Eclipse  
+http://vrapper.sourceforge.net/documentation/?topic=basics - Документация для плагина
+http://konishchevdmitry.blogspot.ru/2008/07/howto-vim.html - Хорошее описание команд.  
+http://fatroom.blogspot.ru/2007/02/vim.html - Описание команд  
+http://transerfing-realnosti.ru/debian/22-navigaciya-v-vim.html  - Отличное (все есть)
+http://scabere.livejournal.com/62886.html - командная строка  
+http://vimcasts.org/episodes/tabs-and-spaces/ - Настройки табуляции
 
+`http://vimcasts.org/episodes/tabs-and-spaces/ - Настройки табуляции` 
